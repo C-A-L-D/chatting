@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\pengjun\.android\build-cache\82ef7208be4d812ecc4ce5af8ca3e7a7fa69767f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="D:\workspace\android\ITalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_941d4f5ac305ae04e167a5aa562f6e8ce6522079\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pengjun\.android\build-cache\695d8d5bc3d5573f2359753e29ae76643065662b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\workspace\android\ITalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0aea8f620a39656a7d904653516035ced305d9e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pengjun\.android\build-cache\d58edb5723490b450897a596099d8fd22d8e0c57\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\workspace\android\ITalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3cabae693fda4588ce60173a15861f1566363838\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pengjun\.android\build-cache\4daaee985067bfbf8a59ffbcfc4884de0f7c0797\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\workspace\android\ITalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d8f0cf90f239c9b9fac9124f6545f72db7b637c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\android\ITalker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6eadd99e40f2bda334166824e6e1fb1e1ee950f">
+        <dex dex="D:\workspace\android\ITalker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ad95a10eb3c6de2d01cca6bc7f2d0c48403e5d70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pengjun\.android\build-cache\a55405fa48eef1be0a968eefc18d5af692061519\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\workspace\android\ITalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43c76acfedc7b5b868c39dd81bbc87edca9eecc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pengjun\.android\build-cache\165df707c4d0db18cc0b12634836b4544a93d66a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\workspace\android\ITalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_052c24929dae627941490abc58828f0a7a8c8e3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pengjun\.android\build-cache\ff989f9c815bf2ced18dbacfcb7703c1b18f1d71\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\workspace\android\ITalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59b6143ae6b2209db0d182550d1cf27ae53cbce4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\android\ITalker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\workspace\android\ITalker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bd442fc194341724343f59c2da6895f663debddf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pengjun\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="D:\workspace\android\ITalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.5.1_04c59c75b3890936e82fa85600dc63c1bc92824c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\application\develop\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\workspace\android\ITalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_c67c715f4263c5bf241e8d92f5572acf95263544\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pengjun\.android\build-cache\e76748565d55a4fa00d7020604082d3104053332\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\workspace\android\ITalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b38c40eeb25a85881474b6dd415275d000a4dcb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pengjun\.android\build-cache\c5bef982a52d75718ad61e007a2dbc17140c6db2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\workspace\android\ITalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_30944f7c42cac996bf4e7ae7705e34238fde0712\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\application\develop\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\workspace\android\ITalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_24616e3732454c67c37cca3592e45eec830680bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pengjun\.android\build-cache\75876c80b93ca4d0fa2de576ca0087e4cc4d9fbe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\workspace\android\ITalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94e3cdfeaa43a04f211275791addda65bc16c25a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pengjun\.android\build-cache\1ce981dd3dd3e3e6a134696b225825390de7f7a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\workspace\android\ITalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b55ad9a6cb24cf24e1d1cae83dd0ea3d4f06e8a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pengjun\.android\build-cache\d7d57db7f8491dac806608f8973bdcdba4a485d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\workspace\android\ITalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8eea0c554c8b3dd4961e0f42dfe54d25b41015da\classes.dex" />
+    </item>
+
+</items>
